@@ -10,3 +10,7 @@ The survivors were obviously lucky, but were there any passengers that were "luc
 With the real data available, we can do an exploratory analysis, test hypotheses, and build a predictive model.
 
 In a nutshell, the goal of this challenge is to use the available data to measure the chances of surviving for every passenger on the Titanic.
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1XxXQq7pzrLU9MQDmTknl0CvZqm3b-M2s/view?usp=sharing" >
+</p>
